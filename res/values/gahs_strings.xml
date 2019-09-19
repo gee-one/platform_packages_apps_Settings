@@ -25,4 +25,7 @@
     <string name="ambient_display_always_title">Always</string>
     <string name="ambient_display_screen_summary">Show time, notification icons, and other info</string>
 
+    <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
+    <string name="suggestion_button_close">Close</string>
+
 </resources>
