@@ -36,4 +36,8 @@
     <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
     <string name="pulse_on_new_tracks_summary">Wake screen when a new music track is played</string>
 
+    <!-- Lockscreen or ambient display on wake gestures -->
+    <string name="ambient_wake_gestures_title">Ambient wake gestures</string>
+    <string name="ambient_wake_gestures_summary">Show ambient display instead of lockscreen when using wake gestures</string>
+
 </resources>

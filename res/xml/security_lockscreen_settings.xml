@@ -85,6 +85,13 @@
             android:fragment="com.android.settings.gestures.PickupGestureSettings"
             settings:controller="com.android.settings.gestures.PickupGesturePreferenceController" />
 
+        <com.gahs.support.preferences.SystemSettingSwitchPreference
+            android:key="ambient_wake_gestures"
+            android:title="@string/ambient_wake_gestures_title"
+            android:summary="@string/ambient_wake_gestures_summary"
+            android:defaultValue="true"
+            settings:controller="com.android.settings.display.AmbientWakeGesturesPreferenceController" />
+
         <SwitchPreference
             android:key="ambient_display_notification"
             android:title="@string/doze_title"
