@@ -32,4 +32,8 @@
     <string name="notification_sound_vib_screen_on_title">Notification sound while screen is on</string>
     <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when the screen is on</string>
 
+    <!-- Pulse ambient display when new music track is played -->
+    <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
+    <string name="pulse_on_new_tracks_summary">Wake screen when a new music track is played</string>
+
 </resources>
